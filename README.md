@@ -1,7 +1,7 @@
 # [Raili Roosmaa] — Portfolio
 
 ## About Me
-Replace this with a short intro about yourself and your business --> Digital marketer, virtual assistant, project manager.
+Digital marketer, virtual assistant, project manager.
 
 
 ---
